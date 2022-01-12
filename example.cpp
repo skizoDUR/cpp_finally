@@ -1,5 +1,5 @@
 //Example
-int f()
+void f()
 {
         restore = 0;
         try {
